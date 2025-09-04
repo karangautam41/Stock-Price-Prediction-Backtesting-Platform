@@ -1,0 +1,13 @@
+python_version: 3.11
+streamlit
+pandas
+numpy
+seaborn
+scikit-learn
+yfinance
+tensorflow-cpu
+plotly
+statsmodels
+matplotlib
+pmdarima
+
